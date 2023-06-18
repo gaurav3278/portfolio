@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d747977d.css",
+    "main.js": "/portfolio/static/js/main.782bab24.js",
+    "static/media/img2.png": "/portfolio/static/media/img2.4e9137b4e2a4f551543d.png",
+    "static/media/GWL.jpg": "/portfolio/static/media/GWL.c32a6aee555b7593fb1e.jpg",
+    "static/media/certi.jpg": "/portfolio/static/media/certi.854480c606b9e594998c.jpg",
+    "static/media/kickstart.jpg": "/portfolio/static/media/kickstart.2096d53e3830feaa36c7.jpg",
+    "static/media/study.jpg": "/portfolio/static/media/study.7c43e87f683b2e0628e9.jpg",
+    "static/media/gaurav.jpg": "/portfolio/static/media/gaurav.93426e445db4c5cf2d59.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.d747977d.css.map": "/portfolio/static/css/main.d747977d.css.map",
+    "main.782bab24.js.map": "/portfolio/static/js/main.782bab24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d747977d.css",
+    "static/js/main.782bab24.js"
+  ]
+}
